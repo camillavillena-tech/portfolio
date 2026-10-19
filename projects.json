@@ -1,0 +1,104 @@
+[
+  {
+    "title": "CTRL + Brew",
+    "category": "Website Design",
+    "description": "Multi-page website concept for a gaming internet café and coffee shop, featuring a homepage, spaces, and a full drinks and gaming menu.",
+    "images": [
+      "assets/ctrl-home.png",
+      "assets/ctrl-features.png",
+      "assets/ctrl-menu.png"
+    ]
+  },
+  {
+    "title": "ADF2027 — A Day with Foxes",
+    "category": "Campaign & Print",
+    "description": "A coordinated event design collection featuring a two-sided brochure, promotional poster, and event infographic.",
+    "images": [
+      "assets/adf-poster.png",
+      "assets/brochure-front.png",
+      "assets/brochure-back.png",
+      "assets/infographic.png"
+    ]
+  },
+  {
+    "title": "iRescue",
+    "category": "Web & UI/UX",
+    "description": "Emergency response system interface featuring login, dashboard, incident reporting, safety locator, and hotline directory.",
+    "images": [
+      "assets/irescue.png"
+    ]
+  },
+  {
+    "title": "TableTap",
+    "category": "UI/UX Design",
+    "description": "Mobile ordering experience with QR scanning, food selection, checkout, order tracking, and staff-side order management.",
+    "images": [
+      "assets/tabletap.png"
+    ]
+  },
+  {
+    "title": "ADF2027 Event Website",
+    "category": "CMS / Wix",
+    "description": "Event website built using Wix, featuring event information, featured organizations, and highlights.",
+    "images": [
+      "assets/adf-wix.png"
+    ]
+  },
+  {
+    "title": "Baker Academy",
+    "category": "Website Design",
+    "description": "Pink-themed baking academy website concept with class schedule, sign-up form, portfolio, and contact page.",
+    "images": [
+      "assets/baker.png"
+    ]
+  },
+  {
+    "title": "University Student Dashboard",
+    "category": "Dashboard UI",
+    "description": "Student portal dashboard interface with schedule, student details, calendar, and notifications.",
+    "images": [
+      "assets/hau.png"
+    ]
+  },
+  {
+    "title": "Project Bukas",
+    "category": "Poster Design",
+    "description": "Education-themed promotional graphic with a strong headline and blue-and-yellow visual identity.",
+    "images": [
+      "assets/bukas.png"
+    ]
+  },
+  {
+    "title": "Skincare Campaign",
+    "category": "Digital Advertising",
+    "description": "Skincare promotional layout with editorial typography, product presentation, benefit highlights, and call to action.",
+    "images": [
+      "assets/skincare.png"
+    ]
+  },
+  {
+    "title": "Brew Haven — Iced Coffee Advertisement",
+    "category": "Digital Advertising",
+    "description": "A promotional iced caramel latte advertisement featuring a coffee-focused composition, bold typography, and a 30% off offer.",
+    "images": [
+      "assets/coffee-ads.png"
+    ]
+  },
+  {
+    "title": "CV Personal Branding",
+    "category": "Brand Identity",
+    "description": "Personal CV monogram and coordinating two-sided navy, gold, and white business card.",
+    "images": [
+      "assets/business-card-1.png",
+      "assets/business-card-2.png"
+    ]
+  },
+  {
+    "title": "Game On! — Linear Algebra in Gaming",
+    "category": "Infographic Design",
+    "description": "An educational infographic connecting linear algebra with video-game transformations, movement, collision detection, color coding, and 3D modeling.",
+    "images": [
+      "assets/game-on-infographic.png"
+    ]
+  }
+]
